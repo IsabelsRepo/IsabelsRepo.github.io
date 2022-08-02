@@ -1,7 +1,5 @@
 ---
-title: Unsolved Homicide Data Analysis   
-theme: jekyll-theme-dinky  
-layout: post   
+title: Unsolved Homicide Data Analysis     
 date: 2022-08-01  
 permalink: /unsolved-homicide-analysis/   
 ---
