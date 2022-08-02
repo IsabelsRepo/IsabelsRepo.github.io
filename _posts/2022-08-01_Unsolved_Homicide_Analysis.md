@@ -1,9 +1,10 @@
 
 ---
-layout: page  
-theme: jekyll-theme-dinky  
 title: "Unsolved Homicide Data Analysis"   
-permalink: /unsolved-homicide-analysis/  
+theme: jekyll-theme-dinky  
+layout: post   
+date: 2022-08-01
+permalink: /unsolved-homicide-analysis/   
 ---
 
 
