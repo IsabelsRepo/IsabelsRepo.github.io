@@ -1,8 +1,7 @@
-
+---
 title: Isabel's Project Home Page
-layout: template
 filename: index.md
-
+---
 
 # Welcome!  
 Hello and [Welcome!](https://isabelsrepo.github.io/updates/blognews/2022/08/01/Welcome-Post.html)
