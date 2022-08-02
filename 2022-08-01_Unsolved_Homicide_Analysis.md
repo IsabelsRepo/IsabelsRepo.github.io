@@ -1,9 +1,9 @@
----
-theme: jekyll-theme-dinky
+
 layout: page  
 title: "Unsolved Homicide Data Analysis"  
 permalink: https://isabelsrepo.github.io/Unsolved-Homicide-Data-Analysis  
----
+filename: 2022-08-01_Unsolved_Homicide_Analysis.md
+
 
 # Unsolved Homicide Data Analysis
 This is the probably the last post in a series of posts about my [collection](https://github.com/IsabelsRepo/IsabelsRepo.github.io/blob/main/Unsolved-Scraper-post.md), [cleaning](https://github.com/IsabelsRepo/IsabelsRepo.github.io/blob/main/2022-07-26-Unsolved-Homicide-Data-Cleaning.md), and analysis of Unsolved Homicide data for the Cincinnati area. In the last post, I left off after briefly describing some of the cleaning I preformed on the data and described some of the data I added. Using this mostly clean data I created a few charts to demonstrate some of the trends in the data. 
@@ -19,7 +19,7 @@ So we've looked a little bit at  the breakdown of homicide cases by victim age b
 It turns out that March is the deadliest month. Is this a spurious correlation or is there something to this? I'm not entirely sure. I could see it being either. March in Cincinnati is a bit unpredictable, it could be 75 and sunny or it could be 15 and snowing. Does the likelyhood or precipitation affect evidence that can be collected? Is it because there are fewer people out to be witnesses? Or is it because there's the weather is 'just right'? It's warm enough to be outside but cold enough to only be out for a purpose. There are other trends with [heatwaves](https://www2.psych.ubc.ca/~schaller/308Readings/Anderson2001.pdf) are known to increase violent crime and social aggression. Does March represent the same thing but in reverse? This might be interesting to try to correlate in other cities throughout the midwest and places that get 4 seasons. 
 
 Since this is time series data, I was curious what it all looked like.
-![Unsolved Homicide Cases in Cincinnati. 1950-2021](https://raw.githubusercontent.com/IsabelsRepo/IsabelsRepo.github.io/main/img/CasesByYear.png)(*Figure 3)
+![Unsolved Homicide Cases in Cincinnati. 1950-2021](https://raw.githubusercontent.com/IsabelsRepo/IsabelsRepo.github.io/main/img/CasesByYear.png)(*Figure 3*)
 
 What we see is that most of the unsolved cases have occured in the past 20 years or so. I guess I was going in expecting that there would be more unsolved cases the further back in history we looked. I based this on a general perception that forensics and investigative techniques have changed and improved as the decades passed. This doesn't seem to be the case though. If we look at annual homicides over roughly the same period we see the same general shape. Which is to be expected but it's still reassuring to see the patterns present across related data. 
 ![Cincinnati Enquirer Annual Homicide Totals In Cincinnati](https://www.gannett-cdn.com/presto/2021/12/27/PCIN/5c7b1ac9-f042-4a00-815c-3603eb002c10-copy-homicides-2020-cam_4.jpg?width=660&height=460&fit=crop&format=pjpg&auto=webp) 
