@@ -1,10 +1,8 @@
 
 ---
 layout: page  
-theme: jekyll-theme-dinky
-title: "Unsolved Homicide Data Analysis"  
-permalink: https://isabelsrepo.github.io/Unsolved-Homicide-Data-Analysis  
-filename: 2022-08-01_Unsolved_Homicide_Analysis.md
+theme: jekyll-theme-dinky  
+title: "Unsolved Homicide Data Analysis"   
 permalink: /unsolved-homicide-analysis/  
 ---
 
