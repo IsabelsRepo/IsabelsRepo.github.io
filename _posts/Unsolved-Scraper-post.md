@@ -4,6 +4,7 @@ title: "Scraping Homicide Data"
 date: 2022-07-12 2:23:00 -0000
 categories: BeautifulSoup WebScraping DataCollection
 filename: Unsolved-Scraper-post.md
+permalink: /scraping-unsolved-homicide-data/
 
 
 #  Unsolved Homicides
