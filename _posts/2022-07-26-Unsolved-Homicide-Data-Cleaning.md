@@ -1,7 +1,5 @@
 ---
 title: Unsolved Homicide Data Cleaning 
-theme: jekyll-theme-dinky  
-layout: post  
 permalink: /unsolved-homicide-data-cleaning/  
 --- 
 # Cleaning Data  
