@@ -1,3 +1,11 @@
+
+layout: post
+title: "Scraping Homicide Data"
+date: 2022-07-12 2:23:00 -0000
+categories: BeautifulSoup WebScraping DataCollection
+filename: Unsolved-Scraper-post.md
+
+
 #  Unsolved Homicides
 For this project I've been analyzing a data set of all of the unsolved homicides in Cincinnati, OH from 1953 to 2021. I chose this data based on a few factors:   
 		- 1. It was publicly available  
