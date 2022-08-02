@@ -21,3 +21,11 @@ In my last post I discussed scraping data about unsolved homicides. [Here](https
 **Content Notice**: The information revealed by clicking these markers is homicide case notes, some of the material may not be suitable for all readers and may contain disturbing descriptions of violence.
 
 <iframe src="Unsolved-Homicides-by-Gender.html" height="600" width="600"></iframe>
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
