@@ -2,6 +2,7 @@
 title: Unsolved Homicide Data
 layout: template
 filename: 2022-07-26-Unsolved-Homicide-Data-Cleaning.md
+permalink: /unsolved-homicide-data-cleaning/
 --- 
 # Cleaning Data  
   In the [first post](https://github.com/IsabelsRepo/IsabelsRepo.github.io/blob/main/Unsolved-Scraper-post.md) for this project I walked through writing my first webscraper using BeautifulSoup4 and I ended up collecting data on unsolved homicides in Cincinnati into a  * .csv file that looked like this:  
