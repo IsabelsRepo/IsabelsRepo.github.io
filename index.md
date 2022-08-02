@@ -1,11 +1,8 @@
 
-theme: jekyll-theme-dinky
 title: Isabel's Project Home Page
 layout: template
 filename: index.md
 
-
-# I seem to have broken everything. Please bear with me as I troubleshoot this. It may take a couple days
 
 # Welcome!  
 Hello and Welcome!
