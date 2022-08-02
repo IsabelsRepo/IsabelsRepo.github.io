@@ -19,4 +19,4 @@ In my last post I discussed scraping data about unsolved homicides. [Here](https
 
 **Content Notice**: The information revealed by clicking these markers is homicide case notes, some of the material may not be suitable for all readers and may contain disturbing descriptions of violence.
 
-![map](https://raw.githubusercontent.com/IsabelsRepo/IsabelsRepo.github.io/main/Unsolved-Homicides-by-Gender.html)
+<iframe src="https://github.com/IsabelsRepo/IsabelsRepo.github.io/blob/main/Unsolved-Homicides-by-Gender.html" height="500" width="500"></iframe>
