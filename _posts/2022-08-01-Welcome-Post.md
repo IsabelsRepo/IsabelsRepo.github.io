@@ -1,7 +1,6 @@
 ---
 theme: jekyll-theme-dinky
-layout: post
-title: "Blog Upgrades"
+title: Blog Upgrades
 date: 2022-08-01 23:07:15 -0000
 categories: Updates BlogNews
 ---
