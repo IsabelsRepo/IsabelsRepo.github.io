@@ -1,5 +1,4 @@
 ---
-theme: jekyll-theme-dinky
 title: Blog Upgrades
 date: 2022-08-01 23:07:15 -0000
 categories: Updates BlogNews
