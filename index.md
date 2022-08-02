@@ -1,3 +1,8 @@
+---
+title: Isabel's Project Home Page
+layout: template
+filename: index.md
+--- 
 # Welcome!  
 Hello and Welcome!
 I'm glad you found my projects. I am a biogeochemist and I like to use python to help me investigate data. I have a few projects I've been working on that you might want to take a look at.  
