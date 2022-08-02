@@ -1,6 +1,6 @@
----
-theme: jekyll-theme-dinky  
+--- 
 title: Scraping Homicide Data  
+theme: jekyll-theme-dinky   
 layout: post  
 date: 2022-07-12 2:23:00 -0000  
 categories: [BeautifulSoup,  Web Scraping,  Data Collection]  
