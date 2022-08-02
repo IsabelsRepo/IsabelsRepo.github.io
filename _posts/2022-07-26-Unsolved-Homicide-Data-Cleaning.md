@@ -1,7 +1,7 @@
 ---
-title: Unsolved Homicide Data  
+title: Unsolved Homicide Data Cleaning 
 theme: jekyll-theme-dinky  
-layout: template  
+layout: page  
 permalink: /unsolved-homicide-data-cleaning/  
 --- 
 # Cleaning Data  
