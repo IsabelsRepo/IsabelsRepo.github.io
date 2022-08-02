@@ -1,11 +1,10 @@
 
 ---
-layout: post  
 theme: jekyll-theme-dinky  
 title: "Scraping Homicide Data"  
+layout: post  
 date: 2022-07-12 2:23:00 -0000  
 categories: BeautifulSoup WebScraping DataCollection  
-filename: Unsolved-Scraper-post.md  
 permalink: /scraping-unsolved-homicide-data/  
 ---
 
