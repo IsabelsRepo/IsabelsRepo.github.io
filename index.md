@@ -16,3 +16,7 @@ In my last post I discussed scraping data about unsolved homicides. [Here](https
 
 ### Analysis
 [This](https://github.com/IsabelsRepo/IsabelsRepo.github.io/blob/main/2022-08-01_Unsolved_Homicide_Analysis.md)  is the probably the last post in a series of posts about my [collection](https://github.com/IsabelsRepo/IsabelsRepo.github.io/blob/main/Unsolved-Scraper-post.md), [cleaning](https://github.com/IsabelsRepo/IsabelsRepo.github.io/blob/main/2022-07-26-Unsolved-Homicide-Data-Cleaning.md), and analysis of Unsolved Homicide data for the Cincinnati area. In the last post, I left off after briefly describing some of the cleaning I preformed on the data and described some of the data I added. Using this mostly clean data I created a few charts to demonstrate some of the trends in the data. 
+
+**Content Notice**: The information revealed by clicking these markers is homicide case notes, some of the material may not be suitable for all readers and may contain disturbing descriptions of violence.
+<iframe src="https://github.com/IsabelsRepo/IsabelsRepo.github.io/
+![map](https://raw.githubusercontent.com/IsabelsRepo/IsabelsRepo.github.io/main/Unsolved-Homicides-by-Gender.html)
