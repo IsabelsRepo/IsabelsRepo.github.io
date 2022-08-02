@@ -1,8 +1,7 @@
 ---
 title: Unsolved Homicide Data  
+theme: jekyll-theme-dinky  
 layout: template  
-theme: jekyll-theme-dinky
-filename: 2022-07-26-Unsolved-Homicide-Data-Cleaning.md  
 permalink: /unsolved-homicide-data-cleaning/  
 --- 
 # Cleaning Data  
