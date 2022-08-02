@@ -44,9 +44,9 @@ So whatever the reason, African Americans are over represented in unsolved homic
 When I was first starting out with this project I knew I wanted to show the spatial relationship of these homicides. I used the folium library which is based on leaf.js (so make sure your script blockers let it through). The interactive map below should let you zoom and pan across the city. If you click on a marker you should be presented with the case number and some of the details of the case. The color of each case is a reflection of it's proximity to the present. The further back in time the case is the fainter the color, the more intense the color the more recently the person was murdered. Lastly, if you happen to have information relevant to one of the cases please contact the [Ohio Bureau of Criminal Investigation](https://www.ohioattorneygeneral.gov/Individuals-and-Families/Victims/Submit-a-Tip/Unsolved-Homicide-Tip.aspx)  
 
 
-**Content Notice**: The information contained in these markers are homicide case notes, some of the material may not be suitable for all readers and may contain disturbing descriptions of violence.
-<iframe src="https://raw.githubusercontent.com/IsabelsRepo/IsabelsRepo.github.io/main/Unsolved-Homicides-by-Gender.html" height="500" width="500"></iframe>
+**Content Notice**: The information contained in these markers are homicide case notes, some of the material may not be suitable for all readers and may contain disturbing descriptions of violence.  
 
+![Unsolved Homicide Map](Unsolved-Homicides-by-Gender.html)  
 
 ## Leaflet.JS
 Leaflet.JS would not exist were it not for the hard work of [Volodymyr Agafonkin](https://agafonkin.com/) . Volodymyr is a Ukrainian citizen who has been displaced by the war and devastation brought on by the Russian invasion of Ukraine. Please consider contributing to one of the organizations helping those affected by the war. [Stand With Ukraine](https://stand-with-ukraine.pp.ua/) and [Come Back Alive](https://www.comebackalive.in.ua/) have been suggested by the [Leaflet.JS](https://leafletjs.com/2022/04/18/leaflet-1.8.0.html) team. 
