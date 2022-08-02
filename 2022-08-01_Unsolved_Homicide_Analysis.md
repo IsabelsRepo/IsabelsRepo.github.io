@@ -1,3 +1,7 @@
+layout: page
+title: "Unsolved Homicide Data Analysis"
+permalink: https://isabelsrepo.github.io/Unsolved-Homicide-Data-Analysis
+
 # Unsolved Homicide Data Analysis
 This is the probably the last post in a series of posts about my [collection](https://github.com/IsabelsRepo/IsabelsRepo.github.io/blob/main/Unsolved-Scraper-post.md), [cleaning](https://github.com/IsabelsRepo/IsabelsRepo.github.io/blob/main/2022-07-26-Unsolved-Homicide-Data-Cleaning.md), and analysis of Unsolved Homicide data for the Cincinnati area. In the last post, I left off after briefly describing some of the cleaning I preformed on the data and described some of the data I added. Using this mostly clean data I created a few charts to demonstrate some of the trends in the data. 
 
