@@ -5,7 +5,7 @@ filename: index.md
 
 
 # Welcome!  
-Hello and Welcome!
+Hello and [Welcome!](https://isabelsrepo.github.io/2022/08/01/Welcome-Post.html)
 I'm glad you found my projects. I am a biogeochemist and I like to use python to help me investigate data. I have a few projects I've been working on that you might want to take a look at.  
 
 ## Unsolved Homicides
