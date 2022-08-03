@@ -29,9 +29,9 @@ What we see is that most of the unsolved cases have occured in the past 20 years
 This chart prepared by the [Cincinnati Enquirer](https://www.cincinnati.com/story/news/crime/2021/12/27/cincinnati-approaches-another-record-year-homicides/9024445002/) shows that part of the reason behind more unsolved cases in the last 20 years than in the 50's-90's is due to an increase in homicides. Particularly we see a jump as we enter the 2000's. Why this happens is beyond the aims of this analysis but it's important to note the general trend. It's also important to note, *figure 1*, that from 2001-2007 the Cincinnati Police Department was taking part in a [Memorandum of Agreement](https://www.cincinnati-oh.gov/police/department-references/department-of-justice-agreement/) with the US Department of Justice. This agreement was entered following the riots sparked by the killings of [Roger Owensby, Jr.](https://en.wikipedia.org/wiki/Roger_Owensby,_Jr.) from asphyxiation, the shooting of unarmed [19-year-old Timothy Thomas](https://en.wikipedia.org/wiki/Cincinnati_riots_of_2001), and years of discriminatory policing by the department. Over this whole 20 year time period from 2001 - 2021 we see significant economic strain along with social strain from riots, terrorism, war, and now a global pandemic.  While I don't intend to try to explain the increase of homicides I feel like it's worth reminding people of these factors.  
 
 After looking at the correlation between *fig 3* and *fig 4* and noting some of the local history, does race impact the cases?
-|![Pie chart of homicides by race 74.4% of all unsolved cases are African American](https://raw.githubusercontent.com/IsabelsRepo/IsabelsRepo.github.io/main/img/CasesByRace.png)|
-|::|
-|(*Figure 5*)|
+|![Pie chart of homicides by race 74.4% of all unsolved cases are African American](https://raw.githubusercontent.com/IsabelsRepo/IsabelsRepo.github.io/main/img/CasesByRace.png)  |
+|:--:|
+|(*Figure 5*)  |
 I haven't been able to look at all of the homicide data yet so I don't know if this mirrors the number of total homicides. I can say that according to [the census](https://www.census.gov/quickfacts/cincinnaticityohio) the demographics of Cincinnati are as follows: 
   
 		White alone 50.3%
