@@ -31,7 +31,8 @@ This chart prepared by the [Cincinnati Enquirer](https://www.cincinnati.com/stor
 After looking at the correlation between *fig 3* and *fig 4* and noting some of the local history, does race impact the cases?
 |![Pie chart of homicides by race 74.4% of all unsolved cases are African American](https://raw.githubusercontent.com/IsabelsRepo/IsabelsRepo.github.io/main/img/CasesByRace.png)  |
 |:--:|
-|(*Figure 5*)  |
+|(*Figure 5*)  |  
+
 I haven't been able to look at all of the homicide data yet so I don't know if this mirrors the number of total homicides. I can say that according to [the census](https://www.census.gov/quickfacts/cincinnaticityohio) the demographics of Cincinnati are as follows: 
   
 		White alone 50.3%
