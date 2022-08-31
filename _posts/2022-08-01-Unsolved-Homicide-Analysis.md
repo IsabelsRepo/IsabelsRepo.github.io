@@ -5,7 +5,7 @@ permalink: /unsolved-homicide-analysis/
 ---
 
 # Unsolved Homicide Data Analysis
-This is the probably the last post in a series of posts about my [collection](https://github.com/IsabelsRepo/IsabelsRepo.github.io/blob/main/Unsolved-Scraper-post.md), [cleaning](https://github.com/IsabelsRepo/IsabelsRepo.github.io/blob/main/2022-07-26-Unsolved-Homicide-Data-Cleaning.md), and analysis of Unsolved Homicide data for the Cincinnati area. In the last post, I left off after briefly describing some of the cleaning I preformed on the data and described some of the data I added. Using this mostly clean data I created a few charts to demonstrate some of the trends in the data.  
+This is the probably the last post in a series of posts about my [collection](https://isabelsrepo.github.io/scraping-unsolved-homicide-data/), [cleaning](https://github.com/IsabelsRepo/IsabelsRepo.github.io/blob/main/_posts/2022-07-26-Unsolved-Homicide-Data-Cleaning.md), and analysis of Unsolved Homicide data for the Cincinnati area. In the last post, I left off after briefly describing some of the cleaning I preformed on the data and described some of the data I added. Using this mostly clean data I created a few charts to demonstrate some of the trends in the data.  
 
 The age distribution of the deceased had some surprises. I had heard that young people are more likely to be murdered than people in older age brackets but it was still interesting to see in this data. It was also very strange to me that so many very young people were likely to be murdered. Boys 11-20 were essentially as likely to be murdered as men 31-40. And then there were the extremely young. The number of children under 10 and more infants than I care to remember. It is absolutely heart breaking.   
 
