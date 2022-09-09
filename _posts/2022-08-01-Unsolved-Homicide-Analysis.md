@@ -52,10 +52,10 @@ When I was first starting out with this project I knew I wanted to show the spat
 
 
 **Content Notice**: The information contained in these markers are homicide case notes, some of the material may not be suitable for all readers and may contain disturbing descriptions of violence.  
-![Unsolved Homicide Map Test](img/Unsolved-Homicides-by-Gender.html)  
-![Unsolved Homicide Map](https://raw.githubusercontent.com/IsabelsRepo/IsabelsRepo.github.io/main/img/Unsolved-Homicides-by-Gender.html)   
-![Unsolved Homicide Map 3](Unsolved-Homicides-by-Gender.html)   
-![Unsolved Homicide Map Test 2](https://IsabelsRepo.github.io/blob/main/img/Unsolved-Homicides-by-Gender.html)   
+![Unsolved Homicide Map Test](IsabelsRepo/docs/assets/Unsolved-Homicides-by-Gender.html)  
+![Unsolved Homicide Map](https://raw.githubusercontent.com/IsabelsRepo/IsabelsRepo.github.io/main/img/Unsolved-Homicides-by-Gender.html)    
+![Unsolved Homicide Map Test](/docs/assets/Unsolved-Homicides-by-Gender.html)  
+![Unsolved Homicide Map Test](/assets/Unsolved-Homicides-by-Gender.html)  
 
 ## Leaflet.JS
 Leaflet.JS would not exist were it not for the hard work of [Volodymyr Agafonkin](https://agafonkin.com/) . Volodymyr is a Ukrainian citizen who has been displaced by the war and devastation brought on by the Russian invasion of Ukraine. Please consider contributing to one of the organizations helping those affected by the war. [Stand With Ukraine](https://stand-with-ukraine.pp.ua/) and [Come Back Alive](https://www.comebackalive.in.ua/) have been suggested by the [Leaflet.JS](https://leafletjs.com/2022/04/18/leaflet-1.8.0.html) team. 
