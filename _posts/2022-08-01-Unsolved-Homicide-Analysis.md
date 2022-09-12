@@ -53,7 +53,7 @@ When I was first starting out with this project I knew I wanted to show the spat
 
 **Content Notice**: The information contained in these markers are homicide case notes, some of the material may not be suitable for all readers and may contain disturbing descriptions of violence.  
 
-<iframe src="/docs/assets/Unsolved-Homicides-by-Gender.html" height="600" width="600"></iframe>   
+<iframe src="/docs/assets/Unsolved-Homicides-by-Gender.html" min-height="600" max-width="600"></iframe>   
 
 ## Leaflet.JS
 Leaflet.JS would not exist were it not for the hard work of [Volodymyr Agafonkin](https://agafonkin.com/) . Volodymyr is a Ukrainian citizen who has been displaced by the war and devastation brought on by the Russian invasion of Ukraine. Please consider contributing to one of the organizations helping those affected by the war. [Stand With Ukraine](https://stand-with-ukraine.pp.ua/) and [Come Back Alive](https://www.comebackalive.in.ua/) have been suggested by the [Leaflet.JS](https://leafletjs.com/2022/04/18/leaflet-1.8.0.html) team. 
