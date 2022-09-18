@@ -2,8 +2,9 @@
 title: Atlanta Property Analysis   
 date: 2022-09-18  
 categories: [Data Science,  GIS, Pandas, QGIS, Socioeconomics]  
-permalink: /Mapping-Atlanta/  
+permalink: /Mapping-Atlanta-Demographics/  
 ---
+
 # Atlanta Data Analysis
 ## Starting out
 I've been meaning to brush up on my GIS skills for a while and I've finally gotten around to it. I'll be using pandas and QGIS (version 3.18.2) for this series of posts. I'm aware that there's more up to date versions out there but I already had this installed. My plan for this series of posts is to look at how the city of Atlanta has changed over the past decade. For now I'll be focusing on just the city proper and not the larger metropolitan area. 
