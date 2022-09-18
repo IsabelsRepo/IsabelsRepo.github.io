@@ -15,6 +15,7 @@ Since I'm a bit rusty with QGIS I thought I'd start out pretty basic. Using the 
 <figcaption align="center">
 	(<i>Figure 1</i>)   
 	</figcaption>  
+	
 As you can see in *figure 1*,  Atlanta was a fairly segregated city in 2010. As of [2019](https://belonging.berkeley.edu/most-least-segregated-cities) it is ranked at #11 by Berkley researchers at the Othering & Belonging Institute. Only 5 neighborhoods in the city had less than 50% of both African Americans and white Americans in 2010. 
 
 ### Closing
