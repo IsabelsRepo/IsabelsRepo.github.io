@@ -7,8 +7,10 @@ filename: index.md
 Hello and [Welcome!](https://isabelsrepo.github.io/updates/blognews/2022/08/01/Welcome-Post.html)
 I'm glad you found my projects. I am a biogeochemist and I like to use python to help me investigate data. I have a few projects I've been working on that you might want to take a look at.  
 ## Analyzing Atlanta Property records  
-### [Mapping Demographics](/Mapping-Atlanta/)
+### [Mapping Demographics](/Mapping-Atlanta-Demographics/)
 When a census is taken the data is compiled into tables that show a breakdown for a variety of subregions. I chose to create a chloropleth map that depicts the dominant racial break down of each neighborhood within the City of Atlanta. While legal segregation is theoretically relegated to the history books social segregation is alive and well. My intention is to depict these trends in an easy to digest manner. Throughout the rest of this project I intent to look into the property value across both neighborhood subregions and individual parcels when it is practial. As I dive deeper into the the census data and parcel records for the past decade I hope to communicate some thought provoking questions.
+
+-------   
 
 ## Unsolved Homicides
 ### [Acquiring the data](https://isabelsrepo.github.io/scraping-unsolved-homicide-data/)
