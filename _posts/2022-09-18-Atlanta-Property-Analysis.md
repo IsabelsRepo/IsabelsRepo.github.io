@@ -2,7 +2,7 @@
 title: Atlanta Property Analysis   
 date: 2022-09-18  
 categories: [Data Science,  GIS, Pandas, QGIS, Socioeconomics]  
-permalink: /Mapping-Atlanta-Demographics/  
+permalink: /_posts/2022-09-18-Atlanta-Property-Analysis.md  
 ---
 # Atlanta Data Analysis
 ## Starting out
