@@ -9,7 +9,10 @@ I'm glad you found my projects. I am a biogeochemist and I like to use python to
 
 ## Analyzing Atlanta Property records  
 ### [Mapping Demographics](https://isabelsrepo.github.io/Atlanta-Property-Analysis/)
-When a census is taken the data is compiled into tables that show a breakdown for a variety of subregions. I chose to create a chloropleth map that depicts the dominant racial break down of each neighborhood within the City of Atlanta. While legal segregation is theoretically relegated to the history books social segregation is alive and well. My intention is to depict these trends in an easy to digest manner. Throughout the rest of this project I intent to look into the property value across both neighborhood subregions and individual parcels when it is practial. As I dive deeper into the the census data and parcel records for the past decade I hope to communicate some thought provoking questions.
+When a census is taken the data is compiled into tables that show a breakdown for a variety of subregions. I chose to create a chloropleth map that depicts the dominant racial break down of each neighborhood within the City of Atlanta. While legal segregation is theoretically relegated to the history books social segregation is alive and well. My intention is to depict these trends in an easy to digest manner. Throughout the rest of this project I intent to look into the property value across both neighborhood subregions and individual parcels when it is practial. As I dive deeper into the the census data and parcel records for the past decade I hope to communicate some thought provoking questions.  
+
+### [Atlanta Property Records Data Cleaning](https://isabelsrepo.github.io/Atlanta-Property-Record-Cleaning/)     
+I left off the last post in this series talking about creating maps in QGIS. I preformed some basic analysis based on the demographic information that was available via the Fulton County government website. This post is going to pick up where that one left off. I won't be showing any maps here but I will be cleaning up 12 years of property records data and doing a little exploring with you.  
 
 -------   
 
