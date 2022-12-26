@@ -15,12 +15,12 @@ permalink: /Atlanta-Property-Record-Cleaning/
 ## Exploring  
   I wasn't exactly sure what the best way to tackle this was so I loaded a couple years worth of data into dataframes and looked around a bit. Each dataset had 33 columns and around 350-400k rows. It took me a little bit of reading to figure out what information I had and which columns it was stored in. 
   ```python  
-  Index(['Address', 'TAXPIN', 'ParcelID', 'ATRPIN', 'TaxDist', 'Owner', 'OWNER2',
-       'ADD2', 'ADD3', 'ADD4', 'ADD5', 'LUCode', 'NbrHood', 'PropClass',
-       'CLASS', 'TotAppr', 'TotAssess', 'IMPR_APPR', 'LandAppr', 'FUL_EX_COD',
-       'StructFlr', 'StructYr', 'TIEBACK', 'TaxYear', 'STATUS_COD', 'LivUnits',
-       'PCODE', 'UNIT_NUM', 'EXTVER', 'Shape__Area', 'Shape__Length'],
-      dtype='object')
+Index(['Address', 'TAXPIN', 'ParcelID', 'ATRPIN', 'TaxDist', 'Owner', 'OWNER2',
+'ADD2', 'ADD3', 'ADD4', 'ADD5', 'LUCode', 'NbrHood', 'PropClass',
+'CLASS', 'TotAppr', 'TotAssess', 'IMPR_APPR', 'LandAppr', 'FUL_EX_COD',
+'StructFlr', 'StructYr', 'TIEBACK', 'TaxYear', 'STATUS_COD', 'LivUnits',
+'PCODE', 'UNIT_NUM', 'EXTVER', 'Shape__Area', 'Shape__Length'],
+dtype='object')
   ```  
 Most of these columns are fairly self explanatory but I was a bit confused by the multiple addresses listed. This ended up being for parcels where the owner had multiple addresses or a different business address in the case of rental properties. I did some more exploring to see which columns had enough data for me to use across multiple years. While doing this I discovered that the column names were changed in 2011 so before I got too far into my analysis I needed to unify the column names across the years.   
 ```python
