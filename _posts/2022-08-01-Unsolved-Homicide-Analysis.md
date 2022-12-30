@@ -10,13 +10,17 @@ This is the probably the last post in a series of posts about my [collection](ht
 The age distribution of the deceased had some surprises. I had heard that young people are more likely to be murdered than people in older age brackets but it was still interesting to see in this data. It was also very strange to me that so many very young people were likely to be murdered. Boys 11-20 were essentially as likely to be murdered as men 31-40. And then there were the extremely young. The number of children under 10 and more infants than I care to remember. It is absolutely heart breaking.   
 
 ![Age distribution of Homicides, categorized by gender](https://raw.githubusercontent.com/IsabelsRepo/IsabelsRepo.github.io/main/img/AgeDistribution.png)  
-(*Figure 1*)   
+<figcaption align="center">
+	(*Figure 1*)   
+	</figcaption>
 I'm not sure what needs to be done to prevent such young people from being murdered but clearly we aren't doing it.  
 
 So we've looked a little bit at  the breakdown of homicide cases by victim age but what about some other trends that might be a bit more odd. The dataset contains the date of each homicide (where a range was presented the initial date was presumed to be the homicide date). What's the deadliest month in Cincinnati?  
 
 ![Homicides by month. March is the deadliest](https://raw.githubusercontent.com/IsabelsRepo/IsabelsRepo.github.io/main/img/CasesByMonth.png)  
-(*Figure 2*)  
+<figcaption align="center">
+	(*Figure 2*)  
+	</figcaption>
 It turns out that March is the deadliest month. Is this a spurious correlation or is there something to this? I'm not entirely sure. I could see it being either. March in Cincinnati is a bit unpredictable, it could be 75 and sunny or it could be 15 and snowing. Does the likelyhood of precipitation affect evidence that can be collected? Is it because there are fewer people out to be witnesses? Or is it because there's the weather is 'just right'? It's warm enough to be outside but cold enough to only be out for a purpose. There are other trends, such as with [heatwaves](https://www2.psych.ubc.ca/~schaller/308Readings/Anderson2001.pdf), are known to increase violent crime and social aggression. Does March represent the same thing but in reverse? This might be interesting to try to correlate in other cities throughout the midwest and places that get 4 seasons. 
 
 Since this is time series data, I was curious what it all looked like.  
