@@ -21,12 +21,15 @@ It turns out that March is the deadliest month. Is this a spurious correlation o
 
 Since this is time series data, I was curious what it all looked like.  
 ![Unsolved Homicide Cases in Cincinnati. 1950-2021](https://raw.githubusercontent.com/IsabelsRepo/IsabelsRepo.github.io/main/img/CasesByYear.png)  
-(*Figure 3*)  
-
+<figcaption align="center">
+	(*Figure 3*)  
+	</figcaption>
 What we see is that most of the unsolved cases have occured in the past 20 years or so. I guess I was going in expecting that there would be more unsolved cases the further back in history we looked. I based this on a general perception that forensics and investigative techniques have changed and improved as the decades passed. This doesn't seem to be the case though. If we look at annual homicides over roughly the same period we see the same general shape. Which is to be expected but it's still reassuring to see the patterns present across related data. 
 ![Cincinnati Enquirer Annual Homicide Totals In Cincinnati](https://www.gannett-cdn.com/presto/2021/12/27/PCIN/5c7b1ac9-f042-4a00-815c-3603eb002c10-copy-homicides-2020-cam_4.jpg?width=660&height=460&fit=crop&format=pjpg&auto=webp)   
-(*Figure 4*)  
-This chart prepared by the [Cincinnati Enquirer](https://www.cincinnati.com/story/news/crime/2021/12/27/cincinnati-approaches-another-record-year-homicides/9024445002/) shows that part of the reason behind more unsolved cases in the last 20 years than in the 50's-90's is due to an increase in homicides. Particularly we see a jump as we enter the 2000's. Why this happens is beyond the aims of this analysis but it's important to note the general trend. It's also important to note, *figure 1*, that from 2001-2007 the Cincinnati Police Department was taking part in a [Memorandum of Agreement](https://www.cincinnati-oh.gov/police/department-references/department-of-justice-agreement/) with the US Department of Justice. This agreement was entered following the riots sparked by the killings of [Roger Owensby, Jr.](https://en.wikipedia.org/wiki/Roger_Owensby,_Jr.) from asphyxiation, the shooting of unarmed [19-year-old Timothy Thomas](https://en.wikipedia.org/wiki/Cincinnati_riots_of_2001), and years of discriminatory policing by the department. Over this whole 20 year time period from 2001 - 2021 we see significant economic strain along with social strain from riots, terrorism, war, and now a global pandemic.  While I don't intend to try to explain the increase of homicides I feel like it's worth reminding people of these factors.  
+<figcaption align="center">
+	(*Figure 4*)  
+	</figcaption>
+This chart prepared by the [Cincinnati Enquirer](https://www.cincinnati.com/story/news/crime/2021/12/27/cincinnati-approaches-another-record-year-homicides/9024445002/) shows that part of the reason behind more unsolved cases in the last 20 years than in the 50's-90's is due to an increase in homicides. Particularly we see a jump as we enter the 2000's. Why this happens is beyond the aims of this analysis but it's important to note the general trend. It's also important to note, *figure 3*, that from 2001-2007 the Cincinnati Police Department was taking part in a [Memorandum of Agreement](https://www.cincinnati-oh.gov/police/department-references/department-of-justice-agreement/) with the US Department of Justice. This agreement was entered following the riots sparked by the killings of [Roger Owensby, Jr.](https://en.wikipedia.org/wiki/Roger_Owensby,_Jr.) from asphyxiation, the shooting of unarmed [19-year-old Timothy Thomas](https://en.wikipedia.org/wiki/Cincinnati_riots_of_2001), and years of discriminatory policing by the department. Over this whole 20 year time period from 2001 - 2021 we see significant economic strain along with social strain from riots, terrorism, war, and now a global pandemic.  While I don't intend to try to explain the increase of homicides I feel like it's worth reminding people of these factors.  
 
 After looking at the correlation between *fig 3* and *fig 4* and noting some of the local history, does race impact the cases?   
 ![Pie chart of homicides by race 74.4% of all unsolved cases are African American](https://raw.githubusercontent.com/IsabelsRepo/IsabelsRepo.github.io/main/img/CasesByRace.png)  
@@ -53,7 +56,7 @@ When I was first starting out with this project I knew I wanted to show the spat
 
 **Content Notice**: The information contained in these markers are homicide case notes, some of the material may not be suitable for all readers and may contain disturbing descriptions of violence.  
 
-<iframe src="/docs/assets/Unsolved-Homicides-by-Gender.html" min-height="600" max-width="600"></iframe>   
+<iframe src="/docs/assets/Unsolved-Homicides-by-Gender.html" min-height="700" max-width="700"></iframe>   
 
 ## Leaflet.JS
 Leaflet.JS would not exist were it not for the hard work of [Volodymyr Agafonkin](https://agafonkin.com/) . Volodymyr is a Ukrainian citizen who has been displaced by the war and devastation brought on by the Russian invasion of Ukraine. Please consider contributing to one of the organizations helping those affected by the war. [Stand With Ukraine](https://stand-with-ukraine.pp.ua/) and [Come Back Alive](https://www.comebackalive.in.ua/) have been suggested by the [Leaflet.JS](https://leafletjs.com/2022/04/18/leaflet-1.8.0.html) team. 
