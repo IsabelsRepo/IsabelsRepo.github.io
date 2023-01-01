@@ -1,7 +1,10 @@
 ---
-title: Unsolved Homicide Data Cleaning 
+title: Unsolved Homicide Data Cleaning  
+date: 2022-07-26  
+categories: [Data Analysis, Python, Pandas, Data Science, Crime, Data Cleaning]  
 permalink: /unsolved-homicide-data-cleaning/  
 --- 
+
 # Cleaning Data  
   In the [first post](https://isabelsrepo.github.io/scraping-unsolved-homicide-data/) for this project I walked through writing my first webscraper using BeautifulSoup4 and I ended up collecting data on unsolved homicides in Cincinnati into a  * .csv file that looked like this:  
   ```
