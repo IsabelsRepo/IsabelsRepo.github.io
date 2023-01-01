@@ -1,6 +1,7 @@
 ---
 title: Unsolved Homicide Data Analysis     
 date: {{2022-08-01}}  
+categories: [Data Analysis, Python, Pandas, Data Science]  
 permalink: /unsolved-homicide-analysis/   
 ---
 
